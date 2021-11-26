@@ -4,5 +4,5 @@ Microverse Trial Project
 
 ## Description
 
-Building a as simple form
+Building a simple form
 
