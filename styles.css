@@ -1,0 +1,13 @@
+#survey-form{
+    margin-top: 2rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    border-radius: 1rem;
+    background-color: rgba(235, 244, 247, 0.753);
+    padding-bottom: 3rem;;
+    padding-top: 3rem;
+}
+
+.container{
+    margin-bottom: 5rem;
+}
